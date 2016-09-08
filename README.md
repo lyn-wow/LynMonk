@@ -1,2 +1,2 @@
 # LynMonk
-Tracking the last ability used as a simple icon
+Shows the last used ability as icon. Helping to maintain the Hit Combo buff.
